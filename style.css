@@ -1,0 +1,36 @@
+*{
+    font-family: "Poppins", sans-serif;
+}
+
+header{
+    background-color: #9657A0;
+}
+.nav-item a{
+    color: #FFDCDC ;
+}
+.boton-cv{
+    background-color:#9657A0 ;
+    color: white;
+}
+
+.caja-habilidades{
+    background-color: #9657A0;
+    color: #ffff;
+}
+#app{
+    color: #9657A0;
+}
+#contacto{
+    background-color: #9657A0;
+    color: white;
+}
+#contacto button{
+    background-color: #FFDCDC;
+    color: #B37C9D
+}
+footer li a{
+    color: #9657A0;
+}
+footer p{
+    color: #9657A0;
+}
