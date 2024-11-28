@@ -1,12 +1,11 @@
 # Portafolio de proyectos
 
-¡Hola! Mi nombre es ***Diana Laura Solis Chincoya***  soy estuduante de desarrollo web Frontend Jr. Apasionada por el aprendizaje constante y entrar en el mundo de la tecnología. En este proyecto encontrarás información sobre mí y mis proyectos.
+¡Hola! Mi nombre es ***Diana Laura Solis Chincoya***  soy estudiante de desarrollo web Frontend Jr. Apasionada por el aprendizaje constante y entrar en el mundo de la tecnología. En este proyecto encontrarás información sobre mí y mis proyectos.
 ___
 ### El proyecto se encuentra dividido en:
 
 - Habilidades 💪
-- Proyectos 
-📋
+- Proyectos 📋
 - Recomendaciones 🙎‍♂️ 
 - Contacto 📫
 
